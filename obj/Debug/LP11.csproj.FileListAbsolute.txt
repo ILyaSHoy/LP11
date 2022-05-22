@@ -1,0 +1,10 @@
+C:\Users\ILyaSHoy\source\repos\LP11\bin\Debug\LP11.exe.config
+C:\Users\ILyaSHoy\source\repos\LP11\bin\Debug\LP11.exe
+C:\Users\ILyaSHoy\source\repos\LP11\bin\Debug\LP11.pdb
+C:\Users\ILyaSHoy\source\repos\LP11\obj\Debug\LP11.csproj.AssemblyReference.cache
+C:\Users\ILyaSHoy\source\repos\LP11\obj\Debug\LP11.Form1.resources
+C:\Users\ILyaSHoy\source\repos\LP11\obj\Debug\LP11.Properties.Resources.resources
+C:\Users\ILyaSHoy\source\repos\LP11\obj\Debug\LP11.csproj.GenerateResource.cache
+C:\Users\ILyaSHoy\source\repos\LP11\obj\Debug\LP11.csproj.CoreCompileInputs.cache
+C:\Users\ILyaSHoy\source\repos\LP11\obj\Debug\LP11.exe
+C:\Users\ILyaSHoy\source\repos\LP11\obj\Debug\LP11.pdb
